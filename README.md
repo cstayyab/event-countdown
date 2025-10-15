@@ -4,7 +4,7 @@ A single-file static countdown page you can host anywhere. Configure it by editi
 
 ## Quick Start
 
-- Open `static-site/index.html` in any browser.
+- Open `index.html` in any browser.
 - Edit the `<body>` element’s data attributes to configure your countdown.
 
 ```html
