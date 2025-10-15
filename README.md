@@ -69,7 +69,7 @@ There is an optional visual display of the target date in the markup:
 
 ## Hosting
 
-- Copy the entire `static-site` folder to any static host (GitHub Pages, Netlify, Vercel static, S3/CloudFront, Azure Static Web Apps, etc.).
+- Copy the entire folder to any static host (GitHub Pages, Netlify, Vercel static, S3/CloudFront, Azure Static Web Apps, etc.).
 - Or open `index.html` directly from your filesystem for local viewing.
 
 ## Troubleshooting
